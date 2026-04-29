@@ -1,0 +1,16 @@
+# Claude Flow / Ruflo runtime
+.claude-flow/data/
+.claude-flow/logs/
+.claude-flow/sessions/
+.claude-flow/neural/
+.claude-flow/metrics/
+.claude-flow/security/
+.claude-flow/learning/
+.claude-flow/*.log
+.claude-flow/*.tmp
+.swarm/*.db
+.swarm/*.db-*
+
+# Env
+.env
+.env.*
